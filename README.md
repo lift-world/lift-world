@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/a17e1b15-4d1b-44ce-80dc-bd7124ca8fb8)
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)]()
 
 <h1 align="center">My professional journey is everything you never knew you wanted to know about!</h1>
@@ -284,6 +284,14 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
       <br>Github
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="55" height="55" />
+      <br>Jest
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="55" height="55" />
+      <br>Prettier
     </td>
   </tr>
 </table>
