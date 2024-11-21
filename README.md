@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a17e1b15-4d1b-44ce-80dc-bd7124ca8fb8)
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)]()
 
 <h1 align="center">My professional journey is everything you never knew you wanted to know about!</h1>
